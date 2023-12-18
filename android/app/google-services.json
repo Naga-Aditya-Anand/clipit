@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669874258100",
+    "project_id": "clipit-a0c32",
+    "storage_bucket": "clipit-a0c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669874258100:android:c626ea8107a533fcf2d7e1",
+        "android_client_info": {
+          "package_name": "com.example.clipit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF_28f112rkDNppVhaA-Ig4cd4g1SbEa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
